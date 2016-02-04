@@ -119,4 +119,5 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/angler/proprietary/lib64/libloc_eng.so:system/lib64/libloc_eng.so \
     vendor/huawei/angler/proprietary/lib64/libManufacture.so:system/lib64/libManufacture.so \
     vendor/huawei/angler/proprietary/lib64/libtinyxml.so:system/lib64/libtinyxml.so \
+    vendor/huawei/angler/proprietary/xbin/dexdump:system/xbin/dexdump 
     vendor/huawei/angler/proprietary/xbin/wlutil:system/xbin/wlutil 
